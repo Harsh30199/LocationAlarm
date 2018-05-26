@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmLocator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="save">Save</string>
+    <string name="no_alarm">No Alarm</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
